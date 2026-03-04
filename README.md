@@ -68,13 +68,13 @@ src
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/yourusername/my-portfolio.git
+git clone https://github.com/Singhaditya-sde/portfolio.git
 ```
 
 ### 2️⃣ Navigate into the project
 
 ```
-cd my-portfolio
+cd portfolio
 ```
 
 ### 3️⃣ Install dependencies (using Bun)
@@ -178,3 +178,4 @@ If you'd like to improve the project, feel free to fork the repo and open a pull
 ## 📄 License
 
 This project is open source and available under the **MIT License**.
+
